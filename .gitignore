@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts (optional — remove these lines if you WANT to commit the trained model)
+*.pkl
+
+# OS
+.DS_Store
